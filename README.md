@@ -15,12 +15,10 @@ A ideia da aplicação foi tirada de um curso dado pela empresa Rocketseat, eles
 7. **Gerenciamento de Estado Global (Context API)**: Utilizando a Context API para compartilhar estado entre múltiplos componentes.
 8. **Estilização de Componentes**: Técnicas para aplicar CSS e outras formas de estilizar componentes React.
 
-<br />
 
 ## UI do projeto:
 [Figma✍](https://www.figma.com/design/rImatwjz9aJQNUWHp3qRP3/SEMAC---MINICURSO?node-id=5-181&t=kqNLBsTPkDL9VECa-1)
 
-<br />
 
 ## Como Utilizar este Repositório:
 
