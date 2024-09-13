@@ -17,6 +17,11 @@ A ideia da aplicação foi tirada de um curso dado pela empresa Rocketseat, eles
 
 <br />
 
+## UI do projeto:
+[Figma✍](https://www.figma.com/design/rImatwjz9aJQNUWHp3qRP3/SEMAC---MINICURSO?node-id=5-181&t=kqNLBsTPkDL9VECa-1)
+
+<br />
+
 ## Como Utilizar este Repositório:
 
 1. Clone o repositório para sua máquina local:
