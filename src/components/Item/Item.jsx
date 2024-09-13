@@ -1,6 +1,6 @@
 import { faCircleDown, faCircleUp } from "@fortawesome/free-regular-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import styles from "./item.module.css";
+import styles from "./Item.module.css";
 
 
 const Item = ({descricao, tag, valor, data, tipo}) => {

@@ -1,5 +1,5 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import styles from "./app.module.css";
+import styles from "./App.module.css";
 import { Card } from "./components/Card/Card.jsx";
 import Header from "./components/Header/Header.jsx";
 import { faCircleDown, faCircleUp } from "@fortawesome/free-regular-svg-icons";

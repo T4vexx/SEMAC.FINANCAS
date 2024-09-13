@@ -1,6 +1,6 @@
 import { faBell, faEye, faEyeSlash, faUser } from "@fortawesome/free-regular-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import styles from "./header.module.css";
+import styles from "./Header.module.css";
 import { useIsValuesHidden } from "../../context/useIsValueHidden";
 
 const Header = () => {

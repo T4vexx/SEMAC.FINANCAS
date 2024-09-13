@@ -1,5 +1,5 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import styles from "./modal.module.css";
+import styles from "./Modal.module.css";
 import { faX } from "@fortawesome/free-solid-svg-icons";
 import Input from "../Input/Input";
 import { useState } from "react";
