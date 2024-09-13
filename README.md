@@ -16,6 +16,7 @@ A ideia da aplicação foi tirada de um curso dado pela empresa Rocketseat, eles
 8. **Estilização de Componentes**: Técnicas para aplicar CSS e outras formas de estilizar componentes React.
 
 <br />
+
 ## Como Utilizar este Repositório:
 
 1. Clone o repositório para sua máquina local:
@@ -27,9 +28,9 @@ A ideia da aplicação foi tirada de um curso dado pela empresa Rocketseat, eles
    cd react-semac-2024
    ```
 3. Instale as dependências necessárias:
-  ```bash
-  npm install
-  ```
+   ```bash
+   npm install
+   ```
 4. Inicie o servidor de desenvolvimento:
    ```bash
    npm run start
