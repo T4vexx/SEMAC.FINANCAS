@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# Minicurso de React - SEMAC 2024
+Este repositório contém o material do minicurso de ReactJS apresentado na SEMAC (Semana da Computação). O objetivo do minicurso é ensinar os principais conceitos e fundamentos do React, permitindo que os participantes construam uma aplicação web básica e compreendam o funcionamento do framework. Esse material pode ser usado por você futuramente para revisitar os principais conceitos e criar outras aplicações a partir dessa.
+<br />
+A ideia da aplicação foi tirada de um curso dado pela empresa Rocketseat, eles possuem várias trilhas de desenvolvimento web, incluindo React, Node, React Native, Flutter, etc. Caso queiram dar uma olhada em um dos cursos ministrados por ele clique no link abaixo:
+<br />
+[Rocketseat🚀](https://app.rocketseat.com.br/cart/rocketseat-one?referral=tavex-augusto0012&coupon=indicamgm&utm_source=platform&utm_medium=organic&utm_campaign=venda&utm_term=mgm&utm_content=indication-lp_one)
+<br />
+## Tópicos abordados:
+1. **Introdução ao React**: Visão geral do React, JSX, Virtual DOM e componentes.
+2. **Estado e Props**: Como gerenciar o estado de um componente (`useState`) e passar dados via props.
+3. **Eventos e Interatividade**: Manipulação de eventos e criação de interatividade nos componentes.
+4. **Hooks e Ciclo de Vida**: Uso de hooks como `useEffect` para lidar com efeitos colaterais e o ciclo de vida de componentes.
+5. **Componentização**: Criação de componentes reutilizáveis e organização da aplicação.
+6. **Comunicação entre Componentes**: Como os componentes pais e filhos se comunicam utilizando props.
+7. **Gerenciamento de Estado Global (Context API)**: Utilizando a Context API para compartilhar estado entre múltiplos componentes.
+8. **Estilização de Componentes**: Técnicas para aplicar CSS e outras formas de estilizar componentes React.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## UI do projeto:
+[Figma✍](https://www.figma.com/design/rImatwjz9aJQNUWHp3qRP3/SEMAC---MINICURSO?node-id=5-181&t=kqNLBsTPkDL9VECa-1)
 
-In the project directory, you can run:
 
-### `npm start`
+## Como Utilizar este Repositório:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Clone o repositório para sua máquina local:
+   ```bash
+   git clone https://github.com/seu-usuario/react-semac-2024.git
+   ```
+2. Navegue até a pasta do projeto:
+   ```bash
+   cd react-semac-2024
+   ```
+3. Instale as dependências necessárias:
+   ```bash
+   npm install
+   ```
+4. Inicie o servidor de desenvolvimento:
+   ```bash
+   npm run start
+   ```
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<br />
+O aplicativo estará rodando em http://localhost:3000.
+<br />
 
-### `npm test`
+## Pré-requisitos
+- Node.js instalado
+- Conhecimento básico de HTML, CSS e Javascript
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Objetivo
+Ao final deste minicurso, os participantes terão criado uma aplicação React funcional e terão compreendido os conceitos essenciais para começar a desenvolver seus próprios projetos com React. Poderão usar este repositorio como um boiler plate para suas próprias aplicações
