@@ -15,7 +15,7 @@ A ideia da aplicação foi tirada de um curso dado pela empresa Rocketseat, eles
 7. **Gerenciamento de Estado Global (Context API)**: Utilizando a Context API para compartilhar estado entre múltiplos componentes.
 8. **Estilização de Componentes**: Técnicas para aplicar CSS e outras formas de estilizar componentes React.
 <br />
-## Como Utilizar este Repositório
+## Como Utilizar este Repositório:
 
 1. Clone o repositório para sua máquina local:
    ```bash
