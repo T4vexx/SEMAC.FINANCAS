@@ -14,9 +14,10 @@ A ideia da aplicação foi tirada de um curso dado pela empresa Rocketseat, eles
 6. **Comunicação entre Componentes**: Como os componentes pais e filhos se comunicam utilizando props.
 7. **Gerenciamento de Estado Global (Context API)**: Utilizando a Context API para compartilhar estado entre múltiplos componentes.
 8. **Estilização de Componentes**: Técnicas para aplicar CSS e outras formas de estilizar componentes React.
+
 <br />
 ## Como Utilizar este Repositório:
-
+<br />
 1. Clone o repositório para sua máquina local:
    ```bash
    git clone https://github.com/seu-usuario/react-semac-2024.git
