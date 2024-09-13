@@ -44,7 +44,6 @@ O aplicativo estará rodando em http://localhost:3000.
 - Node.js instalado
 - Conhecimento básico de HTML, CSS e Javascript
 
-<br />
 
 ## Objetivo
 Ao final deste minicurso, os participantes terão criado uma aplicação React funcional e terão compreendido os conceitos essenciais para começar a desenvolver seus próprios projetos com React. Poderão usar este repositorio como um boiler plate para suas próprias aplicações
