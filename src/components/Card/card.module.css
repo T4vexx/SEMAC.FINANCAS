@@ -1,0 +1,41 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  background: var(--fundo-secundario);
+  padding: 1.25rem 1.5625rem 1.875rem 1.5625rem;
+  font-family: Inter, sans-serif;
+  box-shadow: 0px 8px 20px 0px rgba(0,0,0,0.25);
+  border-radius: 4px; 
+}
+
+.white_card {
+  color: white !important;
+}
+
+.green_card {
+  background: var(--verde) !important;
+}
+
+.red_card {
+  background: var(--vermelho) !important;
+}
+
+.titulo_card {
+  display: flex;
+  align-items: center;
+  gap: 80px;
+}
+
+.titulo_card h2 {
+  font-size: 1.25rem;
+  min-width: 100px;
+}
+
+.icone_card {
+  font-size: 1.5rem;
+}
+
+.valor_card {
+  font-size: 2rem;
+  margin-top: 30px;
+}
