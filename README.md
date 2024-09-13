@@ -17,7 +17,7 @@ A ideia da aplicação foi tirada de um curso dado pela empresa Rocketseat, eles
 
 <br />
 ## Como Utilizar este Repositório:
-<br />
+
 1. Clone o repositório para sua máquina local:
    ```bash
    git clone https://github.com/seu-usuario/react-semac-2024.git
@@ -34,12 +34,16 @@ A ideia da aplicação foi tirada de um curso dado pela empresa Rocketseat, eles
    ```bash
    npm run start
    ```
+
 <br />
 O aplicativo estará rodando em http://localhost:3000.
 <br />
+
 ## Pré-requisitos
 - Node.js instalado
 - Conhecimento básico de HTML, CSS e Javascript
+
 <br />
+
 ## Objetivo
 Ao final deste minicurso, os participantes terão criado uma aplicação React funcional e terão compreendido os conceitos essenciais para começar a desenvolver seus próprios projetos com React. Poderão usar este repositorio como um boiler plate para suas próprias aplicações
